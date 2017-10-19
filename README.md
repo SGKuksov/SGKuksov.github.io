@@ -7,7 +7,7 @@ git commit -m "Update" # Commit the changes
 git push # Push it to Github
 ```
 
-## Создать ветку gh-pages, очистить и отправить изменения туда
+## Создать ветку gh-pages
 ``` bash
 git checkout --orphan gh-pages
 git rm -rf .
@@ -18,7 +18,7 @@ git push --set-upstream origin gh-pages
 git checkout master
 ```
 
-## Запустить таск deploy и разместить отправленные ранее файлы на SGKuksov.github.io/your-reponame
+## Публикация на SGKuksov.github.io/your-reponame
 ``` bash
 gulp deploy
 ```
