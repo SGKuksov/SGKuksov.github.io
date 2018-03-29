@@ -1,24 +1,20 @@
 # SGKuksov.github.io
 
-## Отправить последние изменения в удаленный репозиторий
-``` bash
-git add . # Add any untracked files
-git commit -m "Update" # Commit the changes
-git push # Push it to Github
-```
+Sergei Kuksov
+web developer
+email: sgkukosv@gmail.com
 
-## Создать ветку gh-pages
-``` bash
-git checkout --orphan gh-pages
-git rm -rf .
-touch README.md
-git add README.md
-git commit -m "Init gh-pages"
-git push --set-upstream origin gh-pages
-git checkout master
-```
-
-## Публикация на SGKuksov.github.io/your-reponame
-``` bash
-gulp deploy
-```
+1. Coupon site 
+https://sgkuksov.github.io/coupon/
+2. The selling site of the school of snowboarding and downhill skiing. 
+https://sgkuksov.github.io/ice/
+3. WordPress theme for news portal of transport logistics
+https://tlnews.pro/
+4. News portal of transport logistics 
+https://sgkuksov.github.io/tlnews/
+5. Site of a modern recreation center. 
+https://sgkuksov.github.io/green_valley
+6. A simple one-page website. The site of the aeronautical team Neva-Aero 
+https://sgkuksov.github.io/mongol/
+7. А simple multi-page site. Site of the network of points of rent of special equipment 
+https://sgkuksov.github.io/spectech24/
