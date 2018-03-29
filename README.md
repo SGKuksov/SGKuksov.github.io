@@ -5,44 +5,32 @@ web developer
 [for emails](mailto:sgkuksov1989@gmail.com)
 
 -----------------
-1. [coupon](https://sgkuksov.github.io/coupon/)
-  
-   **pug, sass, jquery.**
+* [coupon](https://sgkuksov.github.io/coupon/)
  
    Multi-page site with mobile adaptation. Coupon site.
  
 
-2. [ice ace](https://sgkuksov.github.io/ice/)
- 
-   **html, sass, jquery.**
+* [ice ace](https://sgkuksov.github.io/ice/)
  
    Multi-page site with mobile adaptation. The selling site for the school of snowboarding and downhill skiing.
 
 
-3. [tlnews.pro](https://tlnews.pro/)
- 
-   **php, sass, jquery.**
+* [tlnews.pro](https://tlnews.pro/)
  
    WordPress theme with mobile adaptation for news portal of transport logistics.
 
 
-4. [tlnews](https://sgkuksov.github.io/tlnews/)
- 
-   **html, sass, jquery.**
+* [tlnews](https://sgkuksov.github.io/tlnews/)
  
    Multi-page site with mobile adaptation. News portal of transport logistics.
 
 
-5. [green valley](https://sgkuksov.github.io/green_valley)
- 
-   **html, less, jquery.**
+* [green valley](https://sgkuksov.github.io/green_valley)
  
    Multi-page site with mobile adaptation for a modern recreation center.
 
 
-6. [mongol](https://sgkuksov.github.io/mongol/)
- 
-   **html, css, js.**
+* [mongol](https://sgkuksov.github.io/mongol/)
  
    A simple one-page website. The site of the aeronautical team Neva-Aero.
 
