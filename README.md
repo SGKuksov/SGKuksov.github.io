@@ -1,6 +1,5 @@
-# SGKuksov.github.io
+# Sergei Kuksov
 
-Sergei Kuksov
 web developer
 -----------------
 email: sgkukosv@gmail.com
