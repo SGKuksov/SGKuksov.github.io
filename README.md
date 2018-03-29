@@ -2,7 +2,7 @@
 
 web developer
 
-email: sgkukosv@gmail.com
+email: sgkuksov@gmail.com
 
 -----------------
 1. Coupon site 
