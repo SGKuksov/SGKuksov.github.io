@@ -1,9 +1,10 @@
 # Sergei Kuksov
 
 web developer
------------------
+
 email: sgkukosv@gmail.com
 
+-----------------
 1. Coupon site 
 https://sgkuksov.github.io/coupon/
 
