@@ -2,7 +2,7 @@
 
 web developer
 
-[email](sgkuksov1989@gmail.com)
+[email](mailto:sgkuksov1989@gmail.com)
 
 -----------------
 
