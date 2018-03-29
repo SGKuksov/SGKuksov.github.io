@@ -29,5 +29,5 @@ web developer
    A simple one-page website. The site of the aeronautical team Neva-Aero.
 
 
-7. [spectech24](https://sgkuksov.github.io/spectech24/) 
+* [spectech24](https://sgkuksov.github.io/spectech24/) 
    А simple multi-page site. Site for the network of points of rent of special equipment.
