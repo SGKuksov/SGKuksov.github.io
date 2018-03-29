@@ -7,9 +7,9 @@ web developer
 -----------------
 1. [coupon](https://sgkuksov.github.io/coupon/)
  
-⋅⋅⋅**pug, sass, jquery.**
+⋅⋅⋅ **pug, sass, jquery.**
  
-⋅⋅⋅Multi-page site with mobile adaptation. Coupon site.
+⋅⋅⋅ Multi-page site with mobile adaptation. Coupon site.
  
 
 2. [ice ace](https://sgkuksov.github.io/ice/)
