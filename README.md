@@ -5,51 +5,50 @@ web developer
 [for emails](mailto:sgkuksov1989@gmail.com)
 
 -----------------
+1. [coupon](https://sgkuksov.github.io/coupon/)
 
-* Multi-page site with mobile adaptation. Coupon site.
+**pug, sass, jquery.**
 
-pug, sass, jquery.
+Multi-page site with mobile adaptation. Coupon site.
+ 
 
-link: [coupon](https://sgkuksov.github.io/coupon/)
+2. [ice ace](https://sgkuksov.github.io/ice/)
 
+**html, sass, jquery.**
 
-* Multi-page site with mobile adaptation. The selling site for the school of snowboarding and downhill skiing.
-
-html, sass, jquery.
-
-link: [ice ace](https://sgkuksov.github.io/ice/)
-
-
-* WordPress theme with mobile adaptation for news portal of transport logistics.
-
-php, sass, jquery.
-
-link: [tlnews.pro](https://tlnews.pro/)
+Multi-page site with mobile adaptation. The selling site for the school of snowboarding and downhill skiing.
 
 
-* Multi-page site with mobile adaptation. News portal of transport logistics.
+3. [tlnews.pro](https://tlnews.pro/)
 
-html, sass, jquery.
+**php, sass, jquery.**
 
-link: [tlnews](https://sgkuksov.github.io/tlnews/)
-
-
-* Multi-page site with mobile adaptation for a modern recreation center.
-
-html, less, jquery.
-
-link: [green valley](https://sgkuksov.github.io/green_valley)
+WordPress theme with mobile adaptation for news portal of transport logistics.
 
 
-* A simple one-page website. The site of the aeronautical team Neva-Aero.
+4. [tlnews](https://sgkuksov.github.io/tlnews/)
 
-html, css, js.
+**html, sass, jquery.**
 
-link: [mongol](https://sgkuksov.github.io/mongol/)
+Multi-page site with mobile adaptation. News portal of transport logistics.
 
 
-* А simple multi-page site. Site for the network of points of rent of special equipment.
+5. [green valley](https://sgkuksov.github.io/green_valley)
 
-html, css.
+**html, less, jquery.**
 
-link: [spectech24](https://sgkuksov.github.io/spectech24/)
+Multi-page site with mobile adaptation for a modern recreation center.
+
+
+6. [mongol](https://sgkuksov.github.io/mongol/)
+
+**html, css, js.**
+
+A simple one-page website. The site of the aeronautical team Neva-Aero.
+
+
+7. [spectech24](https://sgkuksov.github.io/spectech24/)
+
+**html, css.**
+
+А simple multi-page site. Site for the network of points of rent of special equipment.
