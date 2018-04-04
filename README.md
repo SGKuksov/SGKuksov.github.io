@@ -7,8 +7,7 @@ web developer
 -----------------
 ## Sites
 
-* [coupon](https://sgkuksov.github.io/coupon/) 
-   Multi-page site with mobile adaptation. Coupon site.
+* <a href=https://sgkuksov.github.io/coupon/ rel="nofollow">coupon</a> Multi-page site with mobile adaptation. Coupon site
  
 
 * [ice ace](https://sgkuksov.github.io/ice/) 
