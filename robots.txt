@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /coupon/
 Disallow: /cnced/
+Disallow: /vue_app/
 Host: https://sgkuksov.github.io/
